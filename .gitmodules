@@ -1,6 +1,6 @@
-[submodule "utils_deno"]
-	path = utils_deno
-	url = https://github.com/nik-kita/utils_deno.git
 [submodule "ui"]
 	path = ui
 	url = https://github.com/hft-kingdom/ui.git
+[submodule "utils"]
+	path = utils
+	url = https://github.com/nik-kita/utils_deno
